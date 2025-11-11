@@ -1,9 +1,9 @@
 
-> medplum-healthie-importer@5.0.1 build
+> medplum-healthie-importer@5.0.2 build
 > npm run clean && tsc && node --no-warnings esbuild-script.mjs
 
 
-> medplum-healthie-importer@5.0.1 clean
+> medplum-healthie-importer@5.0.2 clean
 > rimraf dist
 
 Build completed successfully!
